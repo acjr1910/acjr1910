@@ -4,9 +4,9 @@
 
 Hi, I'm Agnaldo Junior. I love to build user interfaces and make people's lives easier, delivering well thought and high quality products.
 
-- 🔭 I’m currently working on my personal blog. Professionaly working fulltime at Raia Drogasil.
+- 🔭 I’m currently working on my personal blog. Professionaly working as a React Developer at Raia Drogasil.
 - 🌱 I’m currently learning backend stuff (NodeJS and MongoDB), so I can bring my sketchs into life 😄
-- 🤔 I’m looking for help with all kind of testings.
+- 🤔 I’m looking for help with all kinds of Javascript testings.
 - 💬 Ask me about UI UX Design / HTML / CSS / Javascript
 - 📫 How to reach me: acjr1910@gmail.com
 - ⚡ Fun fact: Bodybuilding as a Hobby.
