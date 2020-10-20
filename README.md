@@ -2,9 +2,9 @@
 
 [![Ajunior's github stats](https://github-readme-stats.vercel.app/api?username=ajnior)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi, I'm Agnaldo Junior. I love to build user interfaces and make people's life easier through simple and clean software.
+Hi, I'm Agnaldo Junior. I love to build user interfaces and make people's lives easier, delivering well thought and high quality products.
 
-- 🔭 I’m currently working on my personal blog. Professionaly at Raia Drogasil.
+- 🔭 I’m currently working on my personal blog. Professionaly working fulltime at Raia Drogasil.
 - 🌱 I’m currently learning backend stuff (NodeJS and MongoDB), so I can bring my sketchs into life 😄
 - 🤔 I’m looking for help with all kind of testings.
 - 💬 Ask me about UI UX Design / HTML / CSS / Javascript
