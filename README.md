@@ -4,7 +4,7 @@
 
 Hi, I'm Agnaldo Junior. I love to build awesome products and ship high quality software.
 
-- 🔭 I’m currently working on my personal blog. Professionaly working as a React Developer at Raia Drogasil.
+- 🔭 I’m currently working on server-side programming. Professionaly working as a React Developer at Raia Drogasil.
 - 🌱 I’m currently learning back end stuff, mostly Node.js and MongoDB.
 - 📫 How to reach me: acjr1910@gmail.com
 
