@@ -1,7 +1,8 @@
 Hi, I'm Agnaldo Junior.
 
-- 🔭 Working as a Front End Developer (mostly React) at Raia Drogasil.
-- 🌱 Currently studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline. Status: Reviewing Math.
+- Working as a Front End Developer (mostly React) at Raia Drogasil.
+- Currently studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
+- CS Status: Reviewing Math.
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
