@@ -1,7 +1,3 @@
-### Hi there 👋
-
-[![Ajunior's github stats](https://github-readme-stats.vercel.app/api?username=ajnior)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi, I'm Agnaldo Junior. I love to build awesome products and ship high quality software.
 
 - 🔭 Professionaly working as a Front End React Engineer at Raia Drogasil.
