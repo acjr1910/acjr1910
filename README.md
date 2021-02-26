@@ -1,6 +1,6 @@
 Hi, I'm Agnaldo Junior.
 
-- Working as a Front End Developer (mostly React) at Raia Drogasil.
+- Working as a Front End Developer at Raia Drogasil.
 - Currently studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
 - CS Status: Reviewing Math / Intro to CS
 
