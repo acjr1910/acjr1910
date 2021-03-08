@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo C Junior.
 
-- I work as a Front End Developer at Raia Drogasil.
-- I'm studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
+- Front End Developer at Raia Drogasil.
+- Studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
 - CS Status:<br />
  **Math** - In Progress <br />
  **Computer Science and Programming Using Python** - In Progress
