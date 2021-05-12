@@ -2,10 +2,16 @@ Hi, I'm Agnaldo C Junior.
 
 - Front End Developer at Raia Drogasil.
 - Studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
-- CS Status:<br />
+
+#### CS Status
+
+##### Intro
  **Math** - In Progress <br />
  **Computer Science and Programming Using Python** - Done <br/>
- **How to Code: Simple Data** - In Progress
+ 
+ ##### Core Programming
+ **How to Code: Simple Data** - Done <br/>
+ **How to Code: Complex Data** - In Progress
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
