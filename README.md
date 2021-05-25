@@ -1,6 +1,6 @@
 Hi, I'm Agnaldo C Junior.
 
-- Front End Developer at Raia Drogasil.
+- Front End Software Engineer at Mindera.
 - Studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
 
 #### CS Status
