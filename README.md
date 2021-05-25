@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo C Junior.
 
 - Front End Software Engineer at Mindera.
-- Studying Computer Science following [ossu/computer-science](https://github.com/ossu/computer-science) guideline.
+- [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) student.
 
 #### CS Status
 
