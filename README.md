@@ -1,6 +1,6 @@
 Hi, I'm Agnaldo C Junior.
 
-- Front End Software Engineer.
+- Front End Software Engineer @ Trainline.
 - [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) student.
 
 #### CS Status
