@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo C Junior.
 
 - Software Developer @ Trainline.
-- [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) student.
+- Computer Science student @ [OSSU](https://github.com/ossu/computer-science).
 
 #### CS Status
 
