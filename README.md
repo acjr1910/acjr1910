@@ -11,7 +11,8 @@ Hi, I'm Agnaldo C Junior.
  
  ##### Core Programming
  **How to Code: Simple Data** - Done <br/>
- **How to Code: Complex Data** - In Progress
+ **How to Code: Complex Data** - Done <br />
+ **Programming Languages A** - In progress<br />
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
