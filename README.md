@@ -7,7 +7,7 @@ Hi, I'm Agnaldo C Junior.
 
 ##### Intro
  **Math** - In Progress <br />
- **Computer Science and Programming Using Python** - Done <br/>
+ **Introduction to Computer Science and Programming** - Done <br/>
  
  ##### Core Programming
  **How to Code: Simple Data** - Done <br/>
