@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo C Junior.
 
-- Software Engineer @ [Trainline](https://www.thetrainline.com/).
-- Computer Science student @ [OSSU](https://github.com/ossu/computer-science).
+- Software Developer @ [Trainline](https://www.thetrainline.com/).
+- Studying Computer Science @ [OSSU](https://github.com/ossu/computer-science).
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
