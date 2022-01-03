@@ -1,6 +1,6 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
-- Software Engineer @ [Trainline](https://www.thetrainline.com/).
+- Software Developer @ [Trainline](https://www.thetrainline.com/).
 - Studying Computer Science @ [OSSU](https://github.com/ossu/computer-science) and [TYCS](https://teachyourselfcs.com/).
 
 <!--
