@@ -1,8 +1,7 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
-- Software Developer @ [Trainline](https://www.thetrainline.com/).
-- I'm currently studying Computer Science following the [TYCS](https://teachyourselfcs.com/) guide.
-- I’m currently reading: Head First C.
+- Software Developer @ [Trainline](https://www.thetrainline.com/)
+- Studying Computer Science @ [OSSU](https://github.com/ossu/computer-science)
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
