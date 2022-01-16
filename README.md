@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
 - Software Developer @ [Trainline](https://www.thetrainline.com/)
-- Studying Computer Science @ [OSSU](https://github.com/ossu/computer-science)
+- Studying Computer Science
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
