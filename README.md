@@ -1,6 +1,6 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
-- Software Developer @ [Trainline](https://www.thetrainline.com/)
+- Software Engineer @ [Trainline](https://www.thetrainline.com/)
 - Studying Computer Science
 
 <!--
