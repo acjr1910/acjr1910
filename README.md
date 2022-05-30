@@ -1,7 +1,9 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
-- Software Engineer @ [Trainline](https://www.thetrainline.com/)
-- Studying Computer Science
+- 🔭 I’m currently working at the [Trainline](https://www.thetrainline.com/)
+- 🌱 I’m currently learning Back End Development and Mathematics/Calculus
+- 👯 I’m looking to collaborate on challenging projects
+- 💬 Ask me about JavaScript
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
