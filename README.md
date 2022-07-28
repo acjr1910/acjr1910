@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
 - 🔭 I’m currently working at the [Trainline](https://www.thetrainline.com/)
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Math and Backend Development
 - 👯 I’m looking to collaborate on challenging projects
 - 💬 Ask me about Software Engineering
 
