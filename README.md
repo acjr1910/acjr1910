@@ -1,8 +1,7 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
 - 🔭 I’m currently working at [Mindera](https://mindera.com/)
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on challenging projects
+- 👯 I’m looking to collaborate on challenging projects.
 
 <!--
 **ajnior/ajnior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
