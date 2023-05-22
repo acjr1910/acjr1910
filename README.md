@@ -1,7 +1,7 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
 - 🔭 I’m currently working at [Mindera](https://mindera.com/)
-- 🌱 I’m currently learning Swift and iOS Development
+- 🌱 I’m currently learning Math
 - 👯 I’m looking to collaborate on challenging projects.
 
 <!--
