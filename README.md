@@ -1,5 +1,7 @@
 Hi, I'm Agnaldo Junior and I love computers.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acjr1910&label=Profile%20views&color=0e75b6&style=flat" alt="acjr1910" /> </p>
+
 - 🔭 I’m currently working at [Mindera](https://mindera.com/)
 - 🌱 I’m currently learning Math
 - 👯 I’m looking to collaborate on challenging projects.
