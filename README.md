@@ -2,7 +2,7 @@
 
 Hi, I'm Agnaldo Junior and I love computers.
 
-- 🔭 I’m currently working at [Mindera](https://mindera.com/)
+- 🔭 I’m currently working at [Mindera](https://mindera.com/)/[Trainline]([https://mindera.com/](https://www.thetrainline.com/))
 - 🌱 I’m currently learning iOS development.
 - 👯 I’m looking to collaborate on challenging projects.
 
